@@ -1,37 +1,62 @@
-# NOVA AGENT — AI Assistant
+# NOVA AGENT — AI Assistant Workspace
 
-NOVA AGENT is an AI assistant that brings useful AI tools together in one place. 
-It can help with AI chat, research, writing, file Q&A, and everyday tasks without 
-switching between multiple applications.
+**NOVA AGENT** is an AI assistant workspace built for people who spend their day moving between too many tools — one for chat, one for writing, one for document Q&A, one for research. This platform puts them in one place.
 
-## What NOVA AGENT Offers
+> Live at [novaagent.site](https://novaagent.site) · [See all AI assistant services →](https://novaagent.site/ai-assistant-services)
 
-- AI assistant for everyday tasks
-- AI-powered research
-- Writing assistance
-- File Q&A
-- Web research
-- Multiple AI models
-- Conversation and memory features
-- Automation tools
+---
 
-## AI Assistant Services
+## The Problem It Solves
 
-NOVA AGENT is designed to make everyday work easier by bringing different AI 
-capabilities into a single assistant.
+Switching between AI tools mid-task breaks focus. You re-explain context, lose thread, and waste time on logistics instead of actual work.
 
-Learn more about the available AI assistant services:
+NOVA AGENT keeps everything in one interface — so the context stays, the workflow stays, and you stay focused.
 
-https://novaagent.site/services
+---
 
-## Website
+## Core Features
 
-Visit the official NOVA AGENT website:
+### AI Chat with Conversation Memory
+Multiple AI models, one interface. Context carries across sessions — you don't re-introduce yourself every time you open a new chat.
 
-https://novaagent.site/
+### Writing Assistance
+Draft emails, reports, proposals, and long-form content with AI support. Adjust tone, restructure sections, and output clean copy without leaving the platform.
 
-## Services
+### File Q&A
+Upload a PDF, contract, report, or lengthy document and ask questions against it. Get direct answers from your own files — faster than reading through manually, more accurate than skimming.
 
-For more information about NOVA AGENT's AI assistant services:
+### Web Research
+AI-assisted research that returns summarized, usable findings — not a wall of links.
 
-https://novaagent.site/services
+### Task Automation
+Handle repetitive tasks — summarizing, reformatting, categorizing, rewriting — without setting up custom integrations or writing prompts from scratch each time.
+
+---
+
+## Who Uses It
+
+Freelancers, small business owners, students, and professionals who want AI that fits into their existing workflow — not a new workflow built around the AI.
+
+---
+
+## Start Here
+
+**Website:** [novaagent.site](https://novaagent.site)
+
+**All available tools:** [novaagent.site/ai-assistant-services](https://novaagent.site/ai-assistant-services)
+
+---
+
+## Built On
+
+NOVA AGENT routes tasks to the right model and context automatically. Users don't manage model selection or prompt engineering — they describe what they need and the platform handles the rest.
+
+---
+
+## Contact
+
+Questions or feedback? Reach out via [novaagent.site](https://novaagent.site)
+
+---
+
+*Built to make AI actually useful for daily work — not just impressive in demos.*
